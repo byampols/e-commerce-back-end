@@ -85,7 +85,7 @@ A server-based backend which can modify and view an e-commerce database.
 
 ## Contributors
 * [Ben Yampolsky](https://github.com/byampols)
-* [coding-boot-camp](https://github.com/coding-boot-camp/fantastic-umbrella)
+* [coding-boot-camp, starter code](https://github.com/coding-boot-camp/fantastic-umbrella)
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [mysql2](https://www.npmjs.com/package/mysql2)
 * [sequelize](https://www.npmjs.com/package/sequelize)
