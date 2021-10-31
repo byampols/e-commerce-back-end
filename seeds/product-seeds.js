@@ -33,6 +33,6 @@ const productData = [
   },
 ];
 
-const seedProducts = () => Product.bulkCreate(productData);
+const seedProducts = () => Product.bulkCreate(productData).catch(err => console.log(err));
 
 module.exports = seedProducts;
