@@ -18,7 +18,7 @@ A server-based backend which can modify and view an e-commerce database.
 ## Installation
 * Clone the github repository to your desired location.
 * Create a file '.env' in the cloned directory which defines the variables: 
-  * DB_NAME = 'just_tech_news_db' 
+  * DB_NAME = 'ecommerce_db' 
   * DB_USER='your-mysql-username-or-root' 
   * DB_PW = 'your-mysql-password'
 * Open the command line, and navigate to the cloned directory. Then type 'npm i' to install the required npm libraries. If node is not installed, please install it before this step.
